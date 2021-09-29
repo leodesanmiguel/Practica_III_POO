@@ -24,8 +24,8 @@
         
         
         
-        <h1>Hello World!</h1>
-        <p>Este alumno es es de la comisión <strong> <%= alu1.getComision() %> </strong> </p>
+        <h1>Hola Mundo!</h1>
+        <p>Este alumno es de la comisión <strong> <%= alu1.getComision() %> </strong> </p>
         <p> <strong>  Descripción:</strong> <%= alu1.getDescripcion() %>  </p>
         <hr><!-- linea de separación -->
         
